@@ -1,0 +1,43 @@
+{
+    "title": "Quick Look at the Amazon Kindle Paperwhite",
+    "description": "Will and Norm review Amazon's newest e-book reader, which now has touch-screen only controls and an illuminated screen. Does it make sense to upgrade if you already have a Kindle?",
+    "referenceId": "SW0LI3F9osE",
+    "date_created": "1505247444",
+    "date_modified": "1505247444",
+    "tags": null,
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "classification": null,
+    "id": "117462646",
+    "loginId": "1759034",
+    "entityType": "1",
+    "titleTextEncoded": "Quick-Look-at-the-Amazon-Kindle-Paperwhite",
+    "category": null,
+    "tvp_profiles": [
+        "11",
+        "9"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 878.543,
+    "VIDEO_LENGTH": "LONG",
+    "duration": 579,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Tested",
+        "hdvFlag": 1,
+        "description": "Will and Norm review Amazon's newest e-book reader, which now has touch-screen only controls and an illuminated screen. Does it make sense to upgrade if you already have a Kindle?",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/SW0LI3F9osE\/maxresdefault.jpg",
+        "videoId": "SW0LI3F9osE",
+        "mediaDuration": 579,
+        "prettyDuration": "00:09:39"
+    },
+    "transcripts": null,
+    "metrics_statistics": null
+}

@@ -5,11 +5,24 @@
     "theme": "tvpage",
     "disablePathToLower": true,
     "enableRobotsTXT": true,
-    "galleryChannelIds": "",
+    "galleryChannelIds": "120374303",
     "params": {
         "loginId": "1759034",
         "subfolder": "",
         "firstpartycookies": true,
-        "cookiedomain": "carneasada.com"
+        "cookiedomain": "carneasada.com",
+        "player": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "google-plus",
+                    "email"
+                ],
+                "domain": "videos.carneasada.com"
+            }
+        }
     }
 }

@@ -1,0 +1,42 @@
+{
+    "title": "Sunbrella Fabric Cleaning Instructions",
+    "description": "",
+    "referenceId": "4hRziysndKc",
+    "date_created": "1505242667",
+    "date_modified": "1505242667",
+    "tags": null,
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "classification": null,
+    "id": "117460482",
+    "loginId": "1759034",
+    "entityType": "1",
+    "titleTextEncoded": "Sunbrella-Fabric-Cleaning-Instructions",
+    "category": null,
+    "tvp_profiles": [
+        "9"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 73.01497,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 69,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Coastal Canvas",
+        "hdvFlag": 0,
+        "description": "",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/4hRziysndKc\/sddefault.jpg",
+        "videoId": "4hRziysndKc",
+        "mediaDuration": 69,
+        "prettyDuration": "00:01:09"
+    },
+    "transcripts": null,
+    "metrics_statistics": null
+}
