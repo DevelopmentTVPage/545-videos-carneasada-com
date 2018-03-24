@@ -1,0 +1,42 @@
+{
+    "title": "TV stand in works in time lapse.",
+    "description": "Putting the Sauder TV stand together in time lapse.",
+    "referenceId": "tDn8y8vXTDI",
+    "date_created": "1505242375",
+    "date_modified": "1505242375",
+    "tags": null,
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "classification": null,
+    "id": "117460469",
+    "loginId": "1759034",
+    "entityType": "1",
+    "titleTextEncoded": "TV-stand-in-works-in-time-lapse",
+    "category": null,
+    "tvp_profiles": [
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 9108.097,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 55,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Eddie Yang",
+        "hdvFlag": 1,
+        "description": "Putting the Sauder TV stand together in time lapse.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/tDn8y8vXTDI\/maxresdefault.jpg",
+        "videoId": "tDn8y8vXTDI",
+        "mediaDuration": 55,
+        "prettyDuration": "00:00:55"
+    },
+    "transcripts": null,
+    "metrics_statistics": null
+}

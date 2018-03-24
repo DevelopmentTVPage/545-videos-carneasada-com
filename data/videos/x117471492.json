@@ -1,0 +1,42 @@
+{
+    "title": "2017 VIZIO D-Series Smart TV Collection",
+    "description": "Learn more: https:\/\/www.vizio.com\/d-series",
+    "referenceId": "icWZESulgO8",
+    "date_created": "1505261833",
+    "date_modified": "1505261833",
+    "tags": null,
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "classification": null,
+    "id": "117471492",
+    "loginId": "1759034",
+    "entityType": "1",
+    "titleTextEncoded": "2017-VIZIO-D-Series-Smart-TV-Collection",
+    "category": null,
+    "tvp_profiles": [
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 5044.84,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 65,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "VIZIO",
+        "hdvFlag": 1,
+        "description": "Learn more: https:\/\/www.vizio.com\/d-series",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/icWZESulgO8\/maxresdefault.jpg",
+        "videoId": "icWZESulgO8",
+        "mediaDuration": 65,
+        "prettyDuration": "00:01:05"
+    },
+    "transcripts": null,
+    "metrics_statistics": null
+}

@@ -1,0 +1,42 @@
+{
+    "title": "kathy ireland Office by Bush Funriture",
+    "description": "\" ...finding solutions for people in business.\"",
+    "referenceId": "8gZ4ybpfTv0",
+    "date_created": "1505239720",
+    "date_modified": "1505239720",
+    "tags": null,
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "3",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "classification": null,
+    "id": "117459396",
+    "loginId": "1759034",
+    "entityType": "1",
+    "titleTextEncoded": "kathy-ireland-Office-by-Bush-Funriture",
+    "category": null,
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 352.1762,
+    "VIDEO_LENGTH": "LONG",
+    "duration": 243,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Doc Strange",
+        "hdvFlag": 1,
+        "description": "\" ...finding solutions for people in business.\"",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/8gZ4ybpfTv0\/maxresdefault.jpg",
+        "videoId": "8gZ4ybpfTv0",
+        "mediaDuration": 243,
+        "prettyDuration": "00:04:03"
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-02-21\"}}}"
+}

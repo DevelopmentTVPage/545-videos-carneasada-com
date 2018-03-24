@@ -1,0 +1,42 @@
+{
+    "title": "Dymo Letra Tag",
+    "description": "This tutorial shows you how to get started with your Dymo Letra Tag labelmaker.",
+    "referenceId": "VJ7WeSiBsgs",
+    "date_created": "1505246359",
+    "date_modified": "1505246359",
+    "tags": null,
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "classification": null,
+    "id": "117462600",
+    "loginId": "1759034",
+    "entityType": "1",
+    "titleTextEncoded": "Dymo-Letra-Tag",
+    "category": null,
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 340.44885,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 145,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "D Dibble",
+        "hdvFlag": 0,
+        "description": "This tutorial shows you how to get started with your Dymo Letra Tag labelmaker.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/VJ7WeSiBsgs\/sddefault.jpg",
+        "videoId": "VJ7WeSiBsgs",
+        "mediaDuration": 145,
+        "prettyDuration": "00:02:25"
+    },
+    "transcripts": null,
+    "metrics_statistics": null
+}
